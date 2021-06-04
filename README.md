@@ -9,4 +9,4 @@ The task is to categorize each face based on the emotion shown in the facial exp
 
 - [Face_emotions_classification.ipynb](https://github.com/abyanjan/Face-Emotion-Classification-Detection/blob/master/Face_emotions_classification.ipynb): This notebook contains the modeling of the classification task with CNN and Tensorflow.
 
-<img src="https://github.com/abyanjan/Face-Emotion-Classification-Detection/blob/master/performance_curve.PNG" width:200 height:200>
+<img src="https://github.com/abyanjan/Face-Emotion-Classification-Detection/blob/master/performance_curve.PNG" width:100 height:100>
